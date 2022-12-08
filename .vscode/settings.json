@@ -43,4 +43,9 @@
     "xtr1common": "cpp",
     "xutility": "cpp"
   }
+,
+  // The following will hide exe files in the editor
+  "files.exclude": {
+      "**/*.exe": true,
+  }
 }
