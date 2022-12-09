@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/266/B
+
 #include <algorithm>
 #include <iostream>
 #include <string>
